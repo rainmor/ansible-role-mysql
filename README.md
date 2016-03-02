@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-mysql.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-mysql)
 
 Installs and configures MySQL or MariaDB server on RHEL/CentOS or Debian/Ubuntu servers.
-在RHEL/CentOS或者Debian/Ubuntu服务器上安装和配置MySQL或者MariaDB服务器
+【在RHEL/CentOS或者Debian/Ubuntu服务器上安装和配置MySQL或者MariaDB服务器】
 
 ## Requirements
 
@@ -11,7 +11,7 @@ None.
 
 ## Role Variables
 
-Available variables are listed below, along with default values (see `vars/main.yml`):
+Available variables are listed below, along with default values (see `defaults/main.yml`)【可用的变量列在下面，后面跟的值为默认值（具体请查看文件"defaults/main.yml"）】:
 
     mysql_user_home: /root
 
