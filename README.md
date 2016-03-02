@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-mysql.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-mysql)
 
 Installs and configures MySQL or MariaDB server on RHEL/CentOS or Debian/Ubuntu servers.
+在RHEL/CentOS或者Debian/Ubuntu服务器上安装和配置MySQL或者MariaDB服务器
 
 ## Requirements
 
